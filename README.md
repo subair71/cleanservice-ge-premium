@@ -1,17 +1,11 @@
-# Cleanservice.ge — Premium Redesign Demo
+# Cleanservice.ge — Bilingual redesign demo
 
-Static, responsive redesign demo based on the public content and service structure of cleanservice.ge.
+Georgian and English static website with six pages in each language.
 
-## Pages
-- Home
-- Services overview
-- Dynamic service detail template
-- Equipment rental/sales
-- Blog overview
-- Contact / booking form demo
+- Georgian: index.html
+- English: en.html
+- Language switching preserves the current service.
+- Responsive menu and reduced-motion support.
+- Contact form opens the visitor’s email application; no submission backend or CMS is connected.
 
-## Run locally
-Open `index.html` in a browser or serve the folder using any static server.
-
-## GitHub Pages
-This project is static and can be published directly from the repository root on the `main` branch.
+Publish the root of main with GitHub Pages.
